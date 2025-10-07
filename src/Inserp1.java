@@ -1,0 +1,2 @@
+public class Inserp1 {
+}
