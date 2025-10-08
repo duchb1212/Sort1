@@ -1,0 +1,32 @@
+
+Bài 1 : Insertion sort
+
+(1) File dữ liệt test : 6.67 ms 
+
+(2) Dữ liệu sinh ngẫu nhiên : 13.67 ms
+
+(3) Dữ liệu sắp xếp xuôi : 1.67 ms 
+
+(4) Dữ liệu sắp xếp ngược : 28.67 ms
+
+(5) Dữ liệu toàn giá trị bằng nhau : 1ms
+
+sắp xếp xuôi trường hợp tốt nhất 
+
+Sắp xếp ngược trường hợp xấu nhất 
+
+Ngãu nhiên trung bình 
+
+Toàn giá trị bằng nhau trường hợp cực tốt 
+
+Bài 2 : Selection Sort 
+
+(1) File dữ liệu test : 7.25ms 
+
+(2) Dữ liệu sinh ngẫu nhiên : 14.2ms  
+
+(3) Dự liệu sắp xếp xuôi : 2.1 ms
+
+(4) Dữ liệu sắp xếp ngược : 30.1ms
+
+(5) Dữ liệu toàn giá trị bằng nhau : 1ms  

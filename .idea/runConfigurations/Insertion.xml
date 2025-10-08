@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Insertion" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Insertion" />
+    <module name="Sort1" />
+    <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/algs4-data" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
