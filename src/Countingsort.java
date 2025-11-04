@@ -24,7 +24,6 @@ public class Countingsort {
         }
         countingSort(arr);
         printarr(arr);
-        ob.close();
     }
 
 
